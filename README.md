@@ -23,6 +23,4 @@
 
 ## 📟 프로젝트 기능 및 화면 소개
 
-* 로그인 화면
-  * ![로그인 이미지](https://github.com/Leechangsuuu/project_RiskAnalysis/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202024-10-11%20144539.png)
   
