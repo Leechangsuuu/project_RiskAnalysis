@@ -1,4 +1,4 @@
-# project_RiskAnalysis
+# AI-Project : 작업자의 실시간 데이터를 이용한 위험 예측 분석 프로젝트
 
 
 ## 📢 프로젝트 소개
