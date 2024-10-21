@@ -32,7 +32,27 @@
 
   * 메인 화면
 
-    ![메인화면](https://github.com/Leechangsuuu/project_RiskAnalysis/blob/main/images/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+     * 실시간 데이터 수신 및 시각화
+          * 웹소켓 연결 : 위험 예측 데이터를 실시간으로 수신
+          * 시각적 업데이트 : 작업자 상태에 따라 아이콘 색상 변화를 시각화, 외부 온도 실시간 업데이트
+
+     * 작업자 위치 표시(위도, 경도 기반)
+          * 지도 랜더링 : 네이버 지도 API로 작업 현장 지도 표시
+          * 아이콘 배치 : 작업자의 위도, 경도에 따라 아이콘 표시
+          * 위치 업데이트 : 위치 정보 변경 시 아아콘 실시간 갱신
+
+    ![메인화면](https://github.com/Leechangsuuu/project_RiskAnalysis/blob/main/images/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+
+   * 작업자별 상태
+
+     * 작업자 상태 모달
+          * 작업자 아이콘 클릭시 해당 작업자의 상태창열림
+          * 실시간 그래프 시각화(작업자 심박수, 체온)
+          * 실시간 상태 정보 표시(심박수, 체온, 위험 예측, 활동)
+
+   ![작업자 정보 이미지 - 정상](https://github.com/Leechangsuuu/project_RiskAnalysis/blob/main/images/%EC%9E%91%EC%97%85%EC%9E%90%20%EC%A0%95%EB%B3%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20-%20%EC%A0%95%EC%83%81.png)
+   
+
 
       
   
